@@ -6,7 +6,8 @@
 ### Deployed Application
 
 ## Description
-This project focuses on creating a high-quality README for an application. The README Generator will include information including what the application is for, how to use the application, how to install it, how to report issues or questions, how to make contributions, and how to choose a specific license for your application. The project is easily done in the command-line application to generate a README through index.js (specifically used in this project). Through this dynamically generated README file, I used the Inquirer package to help you create the best possible Professional README for your application and for anyone to understand how to walk-through your project effectively.
+This project focuses on creating an application that can be used to write and save notes, specifically using Express.js to save and retrieve note data from JSON file. The note-taking application will present a landing page with a link to the notes page, and then clicking the link will take you to a page with existing notes statically structured. The application when saved will appear an existing note in the list and will give you the ability to delete the note if need be. 
+
 
 ## Images
 Below are the images of the Note Taker application:
