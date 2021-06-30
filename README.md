@@ -18,4 +18,4 @@ Below are the images of the Note Taker application:
 
 ## Deployed Application
 To test this application for yourself, follow the link below:
-<a href="https://https://notetakerapp-01.herokuapp.com/">Create Your Note!</a> 
+<a href="https://notetakerapp-01.herokuapp.com/">Create Your Note!</a> 
