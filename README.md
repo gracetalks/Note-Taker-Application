@@ -13,7 +13,7 @@ Below are the images of the Note Taker application:
 
 <img src="./public/assets/images/img1.png" alt="Image of Note Taker Application">
 <img src="./public/assets/images/img2.png" alt="Image of Note Taker Application">
-<img scr="./public/assets/images/img3.png" alt="Image of Note Taker Application>
+<img scr="./public/assets/images/img3.png" alt="Image of Note Taker Application">
 
 ## Deployed Application
 To test this application for yourself, follow the link below:
